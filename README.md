@@ -1,7 +1,7 @@
 # FondrFi
 
 <p align="center">
-  <img src="artifacts/fondrfi/public/fondrfi-logo.png" alt="FondrFi logo" width="88" />
+  <img src="/fondrfi/public/fondrfi-logo.png" alt="FondrFi logo" width="88" />
 </p>
 
 <p align="center">
